@@ -1,0 +1,9 @@
+{
+    "targetSet": {
+        "MDK-ARM/Engineer_CusCtrlr": {
+            "activeTargetType": "Engineer_CusCtrlr"
+        }
+    },
+    "activeSolution": "../MDK-ARM/Engineer_CusCtrlr.csolution.yml",
+    "activeTarget": "Engineer_CusCtrlr"
+}
